@@ -1,0 +1,54 @@
+.example {
+    -webkit-columns: 4 150px;
+    -moz-columns: 4 150px;
+    columns: 4 150px;
+    -webkit-column-gap: 2em;
+    -moz-column-gap: 2em;
+    column-gap: 2em;
+  }
+  
+  body {
+    font-size: 18px;
+    font-family: 'Georgia', serif;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #333;
+    background: #ecf0f1;
+    padding: 1.2em;
+  }
+  
+  h1 {
+    -webkit-column-span: all;
+    -moz-column-span: all;
+    column-span: all;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+    text-align: center; 
+  }
+  
+  p {
+    margin-bottom: 1.3em;
+    text-align: justify;
+    margin-right: 50px;
+    padding-right: 5
+
+  }
+  
+  h3 {
+    column-span: all;
+    font-variant: small-caps;
+    font-size: 1.3em;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    padding: 20px;
+    
+
+  }
+
+  img {
+   float: left;
+   margin: 30px;
+    
+  }

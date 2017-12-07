@@ -1,0 +1,82 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(241, 21, 21);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .best {
+      text-align: center;
+      margin-top: 50px
+  }
+
+  .guitar1 {
+      text-align: center;
+  }
+
+  .synbio {
+      text-align: justify;
+      margin-right: 380px;
+      padding-top: 20px
+  }
+
+  .syn {
+      float: left;
+      margin-left: 250px;
+      padding: 20px;
+  }
+
+  .title1 {
+      padding-right: 450px
+  }
+
+  .guitar2 {
+      text-align: center;
+      padding-top: 50px
+  }
+
+  .dave {
+      float: left;
+      margin-left: 300px;
+      padding: 20px
+  }
+
+  .davebio {
+      text-align: justify;
+      margin-right: 380px;
+      padding-top: 20px;
+  }
+
+  .title2 {
+      padding-right: 450px
+  }
+
+
+ .guitar3 {
+     text-align: center;
+     padding-top: 350px;
+ } 
+
+ .nuno {
+     float: left;
+     margin-left: 300px;
+     padding: 20px;
+ }
+ 
+ .nunobio {
+     text-align: justify;
+     margin-right: 300px;
+     padding-top: 20px;
+ }
+
+ .title3 {
+     padding-right: 450px;
+ }
+
+
+
+
+  

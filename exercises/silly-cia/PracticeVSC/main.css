@@ -1,0 +1,24 @@
+.green {
+    color:darkgreen;
+    font-family: Georgia;
+    text-align: center;
+}
+.height {
+    line-height: 25px;
+}
+.h2 {
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+.upper {
+    text-transform: uppercase;
+}
+a:hover {
+    background-color: red
+}
+.image {
+    float:left;
+    margin-right: 30px;
+}

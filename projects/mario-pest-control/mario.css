@@ -1,0 +1,43 @@
+#baddies {
+    display: inline-block;
+    width: 100%;
+    border: 20px;
+}
+
+#goombas {
+    display: inline-block;
+    width: 20%;
+}
+
+#bob-omb {
+    display: inline-block;
+    width: 20%
+}
+
+#cheep-cheep {
+    display: inline-block;
+}
+
+#goombapic {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+h1{
+    font-size: 80px;
+    color: red;
+    text-align: center;
+}
+
+#goombamath {
+    margin-left: 45px;
+    display: inline-block;
+    width: 100%
+}
+
+
+
+#mult1, #mult2, #mult3, #mult4 {
+    display: inline-block;
+    width: 100%;
+}

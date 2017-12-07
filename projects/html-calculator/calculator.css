@@ -1,0 +1,21 @@
+#button {
+    margin: 20px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.add {
+    background-color: red;
+}
+
+.sub {
+    background-color: green
+}
+
+.mult {
+    background-color: lightseagreen
+}
+body {
+    margin-left: 500px;
+    margin-top: 270px;
+}
