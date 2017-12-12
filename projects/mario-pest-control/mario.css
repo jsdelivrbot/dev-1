@@ -32,12 +32,30 @@ h1{
 #goombamath {
     margin-left: 45px;
     display: inline-block;
-    width: 100%
+    width: 33%;
 }
 
 
 
-#mult1, #mult2, #mult3, #mult4 {
+#bombmath {
     display: inline-block;
-    width: 100%;
+    width: 33%;
 }
+
+#cheepmath {
+    display: inline-block;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }

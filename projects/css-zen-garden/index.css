@@ -1,0 +1,129 @@
+
+   html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+  .mainimage {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .hunington {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .gridlines {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+  }
+  .gridlines2 {
+    position: absolute;
+    top: 30px;
+    left: 400px;
+  }
+
+  .gridlines3 {
+    position: absolute;
+    top: 30px;
+    left: 700px;
+  }
+
+  .gridlines4 {
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+  }
+  .contours {
+    position: fixed;
+    top: 0px;
+    left: 0px;  
+  }
+
+  .zengarden{
+    z-index: 2;
+    position: absolute;
+    top: 35%;
+    left: -12%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 3.2em;
+    color: #fff;
+    font-weight: 150;
+    width: 100%;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+    margin-top: -13px; /* 1/2 height */
+    text-align: center;
+  }
+
+  .cssdesign {
+    z-index: 2;
+    position: absolute;
+    top: 45%;
+    left: 25%;
+    font-style: italic;
+    color: rgba(255,255,255,0.6);
+    font-size: 1.6em;
+    font-weight: 150
+  }
+
+  .enso {
+    z-index: 2;
+    position: absolute;
+    top: 20%;
+    left: 150px;
+
+  }
+
+  .row1, .row2, .row3 {
+    color: #325050;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-size: 17px;
+    margin: 9em;
+    margin-top: 3em;
+    line-height: 2;
+  }
+
+  h3 {
+    
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 70px
+  }
+
+  div.row2 {
+    background:url("http://www.csszengarden.com/214/contours@2x.png"), url("http://www.csszengarden.com/214/bamboo.png"), url("http://www.csszengarden.com/214/gridlines.png");
+    background-color: rgba(138,188,159,0.5);
+    background-attachment: fixed, scroll, scroll; 
+  
+   
+}
+   
+
+
+.bodyimage {
+    position: relative;
+}
+
+.david {
+    z-index: 2;
+    position: absolute;
+    width: auto;
+    padding: 1em 12%;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+    top: 70px
+}
+

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'myFirstFont';
+    src: local("Super Mario 256");
+    src: url('SuperMario256.ttf'); 
+}
+
+body {
+    font-family: 'myFirstFont';
+}
+
+#yellow {
+    background-color: yellow;
+    padding-top: 100px;
+}
+#luigi {
+    text-align: center;
+    margin-left: 400px;
+}
+
+#mushroom {
+    margin-left: 1100px;
+}
+
+#red {
+    background-image: url();
+    background-color: red;
+    padding: 120px
+}
+
+#white {
+    background-color: white;
+    padding-top: 100px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+
+}
+
+#yellow2 {
+    background-color: yellow;
+    background-image: url();
+    padding: 50px
+}
+
+#header {
+    position: relative;
+    bottom: 50px;
+}
+
+
