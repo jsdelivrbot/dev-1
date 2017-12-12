@@ -39,4 +39,4 @@ console.log("\n" + checkLength(person.lifeStory) + "\n");
 console.log(person.lifeStory.slice(Math.floor(lifeStory.length / 2)));
 //console.log(name + age)
 
-console.log(lifeStory.slice(Number(userChoice)))
+//console.log(lifeStory.slice(Number(userChoice)))
