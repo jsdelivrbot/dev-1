@@ -1,0 +1,1 @@
+Function that takes away all caps from a string.

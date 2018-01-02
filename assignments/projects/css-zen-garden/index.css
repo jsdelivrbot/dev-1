@@ -81,7 +81,7 @@
 
   }
 
-  .row1, .row2, .row3 {
+  .row {
     color: #325050;
     font-family: 'Libre Baskerville', sans-serif;
     font-size: 17px;
@@ -97,13 +97,14 @@
     font-size: 1.8em;
     font-weight: normal;
     text-transform: uppercase;
-    line-height: 70px
   }
 
-  div.row2 {
+  #col2 {
     background:url("http://www.csszengarden.com/214/contours@2x.png"), url("http://www.csszengarden.com/214/bamboo.png"), url("http://www.csszengarden.com/214/gridlines.png");
     background-color: rgba(138,188,159,0.5);
     background-attachment: fixed, scroll, scroll; 
+    width: 1500px;
+    padding-left: 150px;
   
    
 }
@@ -124,6 +125,158 @@
     font-size: 35px;
     font-style: italic;
     text-align: center;
-    top: 70px
+    top: 70px;
 }
 
+footer{
+  padding: 8em 0;
+  background: #134347;
+  position: relative;
+  width: 1500px;
+}
+
+.floating-box {
+  display: inline-block;
+  width: 500px;
+  height: 75px;
+  margin: 20px;
+  margin-left: 200px;
+  font-family:  serif;
+  font-size: 18px;
+  color: grey;
+  border-bottom: 1px solid grey;
+ 
+}
+
+.writers{
+  background: #edf4f0;
+  width: 1500px;
+}
+
+.bottom {
+position: absolute;
+width: 1500px;
+background: url("http://www.csszengarden.com/214/contours@2x.png"), url("http://www.csszengarden.com/214/bamboo.png"), url("http://www.csszengarden.com/214/gridlines.png");
+background-color: rgba(138,188,159,0.5);
+background-attachment: fixed, scroll, scroll; 
+}
+
+.float {
+ font-size: 18px;
+ display: inline-block;
+ width: 500px;
+ height: 75px;
+ margin: 20px;
+ margin-left: 200px;
+ font-family:  serif;
+ font-size: 18px;
+ color: grey;
+ border-bottom: 1px solid grey;
+
+ }
+
+ .design{
+    position: absolute;
+    top: 230px;
+    width: 1500px;
+    height: 70px;
+    background: rgba(255,255,255,0.2);
+   
+ }
+
+ .view {
+   position: absolute;
+   margin-left: 50%;
+   margin-top: 20px;
+   color: rgba(255, 255, 255, 0.65);
+   font-size: 20px;
+ }
+
+ .indicator{
+   position: absolute;
+   color: rgba(255, 255, 255, 0.65);
+   margin-left: 90%;
+   bottom: -23px;
+   font-size: 90px;
+   font-weight: 600;
+   font-family:Georgia, 'Times New Roman', Times, serif
+   
+ }
+
+ /* @media (max-width: 768px) {
+  .writers {
+     width: 700px;
+  }
+}
+
+@media (max-width: 768px) {
+  .bottom {
+     width: 700px;
+  }
+} */
+
+/* @media (max-width: 768px) {
+  #col2 {
+     width: 850px;
+     margin-left: -150px;
+  }
+} */
+
+/* @media (max-width: 768px) {
+  #div1 {
+  }
+} */
+
+@media (max-width: 992px) {
+  .container{
+      width:720px;
+  }
+}
+
+@media (max-width: 800px) {
+  .float { width: 100%;}
+}
+
+@media (max-width: 800px) {
+  .floating-box { width: 100%;}
+}
+
+@media (max-width: 900px) {
+  .view { margin-left: 200px;}
+}
+
+@media (max-width: 900px) {
+  .indicator { margin-left: 400px;}
+}
+
+@media (min-width: 1500px) {
+  #col12 { margin-left: -100px;}
+}
+
+@media (min-width: 360px) and (max-width: 640px) {
+  .cssdesign { 
+    margin-left: 200px;
+    width: 50%;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 640px) {
+  .zengarden { 
+    margin-left: 250px;
+    margin-top: -50px
+  }
+}
+
+@media (min-width: 360px) and (max-width: 640px) {
+  .david { 
+    margin-left: 150px;
+    margin-top: -30px;
+    width: 100%
+  }
+}
+
+
+
+#col12 {
+  margin-left: -70px;
+}

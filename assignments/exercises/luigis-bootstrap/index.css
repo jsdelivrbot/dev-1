@@ -1,11 +1,5 @@
-@font-face {
-    font-family: 'myFirstFont';
-    src: local("Super Mario 256");
-    src: url('SuperMario256.ttf'); 
-}
-
 body {
-    font-family: 'myFirstFont';
+    font-family: 'Super Mario 256';
 }
 
 #yellow {
@@ -18,13 +12,13 @@ body {
 }
 
 #mushroom {
-    margin-left: 1100px;
+    margin-left: 110
 }
 
 #red {
     background-image: url();
     background-color: red;
-    padding: 120px
+    padding: 100px
 }
 
 #white {
@@ -48,3 +42,8 @@ body {
 }
 
 
+@media only screen and (max-width: 1000px) {
+    #luigi {
+        margin-left: 100px;
+    }
+}

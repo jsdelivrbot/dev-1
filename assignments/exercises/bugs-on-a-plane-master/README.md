@@ -1,0 +1,1 @@
+Fix the app so an alert is displayed when button is clicked.

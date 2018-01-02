@@ -1,0 +1,1 @@
+Function that returns true if both numbers share the same last digit.

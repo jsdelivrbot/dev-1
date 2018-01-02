@@ -1,0 +1,1 @@
+Seperate the voter results based on age and by who voted.

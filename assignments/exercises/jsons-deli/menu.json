@@ -1,0 +1,37 @@
+{
+    "appetizers": [
+        {
+        "fish": "tilapia",
+        "shrimp": "shrimp",
+        "chips": "blue-corn",
+        "carrots": "organic-carrots"
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "peanut-butter": "whole-wheat-bread, jiff",
+            "turkey": "whole-wheat-bread, cajun-turkey",
+            "ham": "whole-wheat-bread, honey-baked-ham"
+        }
+    ],
+    "hot sandwhiches": [
+        {
+            "grilled-cheese": "whole-wheat-bread, swiss",
+            "philly-cheese-steak": "steak, cheese"
+        }
+    ],
+    "desserts": [
+        {
+            "hot-fudge-sunday": "ice-cream, chocolate",
+            "brownie-cake": "ice-cream, hot-brownie",
+            "ice-cream": "milk, cream"
+        }
+    ],
+    "drinks": [
+        {
+        "vodka": "alcohol",
+        "beer": "alcohol",
+        "lemonade": "sugarlemon"
+        }
+    ]
+}

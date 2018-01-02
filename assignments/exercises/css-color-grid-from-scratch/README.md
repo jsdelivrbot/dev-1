@@ -1,0 +1,1 @@
+Using CSS media queries to create a website with a simple grid system.

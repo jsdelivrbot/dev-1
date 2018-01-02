@@ -1,0 +1,1 @@
+Your task is to replicate this site without simply copying the source code. This will have to be an on-your-honor requirement.
