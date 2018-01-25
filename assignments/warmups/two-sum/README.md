@@ -1,0 +1,1 @@
+Given an array of integers and a target integer, return the indices of the two numbers which add up to the target.

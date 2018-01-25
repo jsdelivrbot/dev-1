@@ -16,6 +16,7 @@ while (isAlive) {
         console.log("GAME OVER");
     } else if (userinput.includes("stab") && userinput.includes("sneak")) {
         console.log("Congrats you have escaped the bank.");
+        break;
 
     } else if (userinput.includes("call") && userinput.includes("help")) {
         console.log("One of the robbers sees you on your phone");
@@ -24,7 +25,7 @@ while (isAlive) {
         console.log("good choice")
     } else if (userinput.includes("run") || userinput.includes("hide")) {
         console.log("dont even think about it")
-    } else if (userinput.includes("sneak") && userinput.includes("behind")) {
+    } else if (userinput.includes("creep") && userinput.includes("behind")) {
         console.log("now make your move quick");
         inv.push("attack");
     } else if (userinput.includes("slit") || userinput.includes("stab")) {

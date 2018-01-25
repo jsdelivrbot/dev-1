@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin: 200px;
+    justify-content: space-around;
+    box-sizing: content-box;    
+    border: 10px solid blue;
+    font-size: 30px;
+}
