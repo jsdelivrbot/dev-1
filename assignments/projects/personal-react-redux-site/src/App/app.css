@@ -1,0 +1,25 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 250px;
+    padding: 300px;
+    background-image: url("http://static.wixstatic.com/media/7cc832_f77f4f862aa44880ae25e3b96efb9be2.jpg_srz_980_653_85_22_0.50_1.20_0.00_jpg_srz");
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+body {
+   background-color: seagreen;
+}
+
+.title {
+    font-size: 55px;
+    margin-left: -150px;
+}
+
+.place{
+    font-size: 15px;
+    margin-left: -150px;
+}
