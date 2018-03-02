@@ -1,0 +1,33 @@
+.issue-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    padding: 50px;
+    margin: 25px;
+    margin-left: 118px;
+    border: 1px solid black;
+}
+
+.issue-description {
+    margin: 25px 0;
+    font-size: 25px;
+}
+
+.voting {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+.thumb {
+    padding: 0 40px;
+    font-size: 30px
+}
+
+.smiley-down {
+    height: 20px;
+}
+
+.smiley-up {
+    height: 20px;
+}

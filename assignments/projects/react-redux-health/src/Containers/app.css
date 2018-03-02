@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 250px;
+    padding: 300px;
+    background-image: url("https://cdn-mf0.heartyhosting.com/sites/mensfitness.com/files/styles/wide_videos/public/cardio-builds-muscle-main.jpg?itok=5RRgtcst");
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+body {
+   background-color: black;
+}
+
+.title {
+    font-size: 55px;
+    margin-left: -150px;
+    color: red;
+}
+
+.place{
+    font-size: 15px;
+    margin-left: -150px;
+}

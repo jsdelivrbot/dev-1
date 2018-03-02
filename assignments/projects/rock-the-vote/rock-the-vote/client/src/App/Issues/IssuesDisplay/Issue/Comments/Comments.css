@@ -1,0 +1,38 @@
+.comments-display {
+    margin: 10px 0;
+    display: flex;
+    justify-content: flex-end ;
+}
+
+.single-comment {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+
+.comment-text {
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.delete-comment {
+    height: 20px;
+    border-radius: 5px;
+}
+
+.delete-comment:hover {
+    cursor: pointer;
+}
+
+.comment-form {
+    padding: 10px;
+}
+
+.comment-box {
+    width: 95%;
+}
+
+.post-comment {
+    float: right;
+    margin-bottom: 20px;
+}
