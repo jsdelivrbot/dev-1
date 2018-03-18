@@ -34,4 +34,4 @@ function fizzBuzz(n){
     return output;
 }   
 
-console.log(fizzBuzz(5))
+console.log(fizzBuzz(20))

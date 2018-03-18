@@ -13,10 +13,13 @@
     font-size: 25px;
 }
 
+
+
 .voting {
     display: flex;
     justify-content: space-around;
     margin: 30px;
+    padding: 25px;
 }
 
 .thumb {
@@ -30,4 +33,9 @@
 
 .smiley-up {
     height: 20px;
+}
+
+.total {
+    margin-right: 50px;
+    padding-right: 40px;
 }
